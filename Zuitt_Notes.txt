@@ -1,5 +1,0 @@
-Right Click + Git Bash Here
-mkdir web-fcb-portfolio
-cd web-fcb-portfolio
-touch index.html
-touch style.css
